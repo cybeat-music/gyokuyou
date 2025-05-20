@@ -49,6 +49,6 @@
     "Never Say Never --- Afilia Saga",
     "Next Stage! --- Afilia Saga",
     "S M L --- Afilia Saga",
-    "Survive!! --- Afilia Saga・East"
+    "Survive!! --- Afilia Saga・East",
   ]
 }
