@@ -36,19 +36,19 @@
     "Zero (2019 Ver.) --- Junjo no Afilia"
   ],
   "3": [
-    "Baisoku Renai Dokei --- Afilia Saga・East",
-    "Biinasu Megamikkusu --- Afilia Saga・East",
+    "Baisoku Renai Dokei --- Afilia Saga East",
+    "Biinasu Megamikkusu --- Afilia Saga East",
     "Embrace Blade --- Afilia Saga",
     "Hajimeteno Season --- Junjo no Afilia",
     "Higouriteki Katsu Teisei Funouna Omoikomi --- Afilia Saga",
     "Ki - Sho --- Junjo no Afilia",
-    "Kindan Mutekino Daarin --- Afilia Saga・East",
-    "La La La Raboryuushon --- Afilia Saga・East",
+    "Kindan Mutekino Daarin --- Afilia Saga East",
+    "La La La Raboryuushon --- Afilia Saga East",
     "Mirai Botan --- Afilia Saga",
     "Neputyuunu Sagashite --- Afilia Saga",
     "Never Say Never --- Afilia Saga",
     "Next Stage! --- Afilia Saga",
     "S M L --- Afilia Saga",
-    "Survive!! --- Afilia Saga・East"
+    "Survive!! --- Afilia Saga East"
   ]
 }
