@@ -2,6 +2,7 @@
   "category": "2",
   "title": "Ichizu na Onna no Ko.",
   "author": "Yuika",
+  "disc": "0",
   "1": {},
   "2": {}
 }
