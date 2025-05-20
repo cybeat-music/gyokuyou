@@ -1,0 +1,2 @@
+title = "Ichizu na Onna no Ko."
+author = "Yuika"
