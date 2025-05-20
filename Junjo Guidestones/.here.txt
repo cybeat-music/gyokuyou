@@ -3,7 +3,7 @@
   "title": "Junjo Guidestones",
   "author": "Junjo no Afilia, Afilia Saga, Afilia Saga East",
   "disc": "3",
-  "1": {["Everlasting Friends (2019 Ver.) --- Junjo no Afilia",
+  "1": ["Everlasting Friends (2019 Ver.) --- Junjo no Afilia",
 "I Want to Grow --- Junjo no Afilia",
 "Itsukamitanijinosonoshitade --- Afilia Saga",
 "Japonekusuromannnekusu (2019 Ver.) --- Junjo no Afilia",
@@ -17,8 +17,8 @@
 "Spring Faction --- Afilia Saga",
 "Tennkouga - Ru (2019 Ver.) --- Junjo no Afilia",
 "There Is the Oringle Meaning of Living (2019 Ver.) --- Junjo no Afilia",
-]},
-  "2": {["Juicy Girl --- Junjo no Afilia",
+],
+  "2": ["Juicy Girl --- Junjo no Afilia",
 "Jumping (2019 Ver.) --- Junjo no Afilia",
 "Kisekito Mahouno Kuronikuru (2019 Ver.) --- Junjo no Afilia",
 "Kokoronohikari --- Afilia Saga",
@@ -32,8 +32,8 @@
 "Su Ki Wa Mu Te Ki --- Junjo no Afilia",
 "Vi - Nasutoaokinanatsunoumi (2019 Ver.) --- Junjo no Afilia",
 "Zero (2019 Ver.) --- Junjo no Afilia",
-]}
-  "3": {["Baisoku Renai Dokei --- Afilia Saga・East",
+],
+  "3": ["Baisoku Renai Dokei --- Afilia Saga・East",
 "Biinasu Megamikkusu --- Afilia Saga・East",
 "Embrace Blade --- Afilia Saga",
 "Hajimeteno Season --- Junjo no Afilia",
@@ -46,5 +46,5 @@
 "Never Say Never --- Afilia Saga",
 "Next Stage! --- Afilia Saga",
 "S M L --- Afilia Saga",
-"Survive!! --- Afilia Saga・East",]}
+"Survive!! --- Afilia Saga・East",]
 }
